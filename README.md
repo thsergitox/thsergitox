@@ -1,8 +1,3 @@
-<div id = 'header' alling = 'center'>
-  <h1></h1>
-  <p> </p>
-</div>
----
 <h2 align="center">
     Hi 👋, Welcome to my profile
 </h2>
